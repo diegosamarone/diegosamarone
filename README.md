@@ -49,5 +49,3 @@
 * [Inteligência Artificial - Trilha Practitioner](https://drive.google.com/file/d/1Dd7RwfP2Kvtz2MPi-9M8MNfbiAQP5yG_/view?usp=sharing)<br>
 * [Inteligência Artificial - Trilha Starter ](https://drive.google.com/file/d/1aYa3EwJmcoKsSf-NYwMZtRVBEHaEFInl/view?usp=sharing)<br>
 * [Robótica para Humanoides com ênfase em IA e Automação - Trilha Starter](https://drive.google.com/file/d/1oWG1ZCQZ3d5G7-aGHhza1wlx02CME6Zm/view?usp=sharing)<br>
-* [Desenvolvimento de Sistemas para redes IoT - Trilha Starter](https://drive.google.com/file/d/1K1f9nyFW9LppNY-DPPGc-GpP5or1MNbj/view?usp=sharing)<br>
-* [Redes de comunicação IoT - Trilha Starter](https://drive.google.com/file/d/1_E2sa5bsfWZPbuhz_TvZykBiLMp5vcLw/view?usp=sharing)<br>
